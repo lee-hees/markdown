@@ -6,7 +6,6 @@
 ## 동서대
 <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!--  -->
 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 |[`홈페이지`](http://www.dongseo.ac.kr/kr/?pCode=main)
 |[`이클래스`](https://eclass1.dongseo.ac.kr/xn-sso/login.php?auto_login=true&sso_only=true&cvs_lgn=1&site=&return_url=https%3A%2F%2Feclass1.dongseo.ac.kr%2Fxn-sso%2Fgw-cb.php%3Ffrom%3Dweb_redirect%26login_type%3Dstandalone%26return_url%3Dhttps%253A%252F%252Fcanvas.dongseo.ac.kr%252Flearningx%252Flogin)
 |[`학생지원시스템`](https://cent.dongseo.ac.kr/std)
@@ -23,7 +22,6 @@
 ## 주로 사용
 <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!--  -->
 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 |[`캘린더`](https://calendar.google.com/calendar/u/0/r?tab=rc1)
 |[`구글 드라이브`](https://drive.google.com/drive/my-drive)
 |[`MEET`](https://meet.google.com/?pli=1&authuser=0)
@@ -44,11 +42,9 @@
 ## 자격증
 <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!--  -->
 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 |[`자격증 CBT`](https://www.comcbt.com/)
 |[`FRAN`](http://q.fran.kr/)
 |[`네트워크관리사 2급 실기`](https://devkyu.tistory.com/858)
-
 <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!--  -->
 <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!--  -->
 <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!-- <!--  -->
